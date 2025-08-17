@@ -8,3 +8,24 @@ border color: #cfd9de
 text color: #0f1419
 Remember the font-weight!
 */
+.main {
+  margin-top: 100px;
+}
+
+.following-btn {
+  color: #0f1419;
+  font-weight: 500;
+
+  width: 100px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  border: 3px solid #cfd9de;
+  border-radius: 20px;
+}
